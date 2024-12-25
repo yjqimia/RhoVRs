@@ -55,17 +55,17 @@ ATOM H20    HGR61   0.115 !    0.000   1   H    1  1
 ATOM H21    HGR61   0.115 !    0.000   1   H    1  1  
 ATOM C24    CG2O1   0.497 !   18.114   6   C    3  4  
 ATOM O2     OG2D1  -0.476 !    0.263   8   O    1  2  
-ATOM N3     NG2S0  -0.050 !    8.245   7   N    3  3  !=-0.236+0.186 due to the protonate, according to that change in cgenff4.6
+ATOM N3     NG2S0  -0.050 !    8.245   7   N    3  3  !optimized charges
 ATOM C25    CG331  -0.245 !    5.263   6   C    4  4  
 ATOM H22    HGA3    0.090 !    0.000   1   H    1  1  
 ATOM H23    HGA3    0.090 !    0.000   1   H    1  1  
 ATOM H24    HGA3    0.090 !    0.000   1   H    1  1  
-ATOM C26    CG321  -0.138 !    6.746   6   C    4  4  !=0.078-0.216
-ATOM C27    CG2O2   0.787 !    6.167   6   C    3  4  !=0.541+0.246
+ATOM C26    CG321  -0.138 !    6.746   6   C    4  4  !optimized charges
+ATOM C27    CG2O2   0.787 !    6.167   6   C    3  4  !optimized charges
 ATOM H25    HGA2    0.090 !    0.000   1   H    1  1  
 ATOM H26    HGA2    0.090 !    0.000   1   H    1  1  
-ATOM O3     OG2D1  -0.568 !    3.349   8   O    1  2  !=-0.760+0.192
-ATOM O4     OG311  -0.598 !    5.169   8   O    2  2  !=-0.760+0.162
+ATOM O3     OG2D1  -0.568 !    3.349   8   O    1  2  !optimized charges
+ATOM O4     OG311  -0.598 !    5.169   8   O    2  2  !optimized charges
 ATOM C28    CG2DC1 -0.149 !    0.207   6   C    3  4  
 ATOM C29    CG2DC1 -0.149 !    0.000   6   C    3  4  
 ATOM H27    HGA4    0.150 !    0.000   1   H    1  1  
